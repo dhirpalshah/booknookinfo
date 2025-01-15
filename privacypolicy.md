@@ -14,7 +14,7 @@ We collect the following types of information to provide and improve our service
 - **Account Information**: When you create an account, we collect your name, email address, username, and password.
 - **Book Activity**: Information about books you add to your reading or wish list, ratings, and reviews you submit.
 - **Profile Information**: Optional profile details, such as a profile picture or additional information you choose to provide.
-- **Social Features**: When you follow other users, comment on posts, or like posts, this information is associated with your account.
+[//]: # (- **Social Features**: When you follow other users, comment on posts, or like posts, this information is associated with your account.)
 
 ### 1.2 Information Collected Automatically
 - **Device Information**: Information about your device, including hardware model, operating system, and app version.
@@ -29,7 +29,7 @@ If you link your account to a third-party service (e.g., Google or Apple for aut
 ## 2. How We Use Your Information
 We use your information to:
 - Provide core app functionalities, such as adding books, posting reviews, and managing your profile.
-- Enable social features, such as following users, liking posts, and commenting on activity feeds.
+[//]: # (- Enable social features, such as following users, liking posts, and commenting on activity feeds.)
 - Communicate with you, including sending updates about the app or responding to support requests.
 - Analyze app performance, diagnose issues, and improve user experience.
 - Personalize your experience, such as suggesting books or users to follow.
@@ -39,17 +39,13 @@ We use your information to:
 ## 3. Sharing Your Information
 We do not sell or rent your personal information to third parties. However, we may share your information in the following circumstances:
 
-### 3.1 With Other Users
-- If you choose to use the app's social features, such as posting reviews, following other users, or commenting on posts, this information is visible to other users.
-- If you enable "Private Mode," we limit visibility of your activity, removing access to social features like the feed and user search.
-
-### 3.2 With Service Providers
+### 3.1 With Service Providers
 We may share your data with trusted third-party service providers who help us:
 - Host our app and store data (e.g., Firebase by Google).
 - Analyze usage data and improve app performance.
 - Process support requests or notifications.
 
-### 3.3 For Legal or Safety Reasons
+### 3.2 For Legal or Safety Reasons
 We may disclose your information if required by law or to:
 - Protect the rights, property, or safety of BookNook, its users, or the public.
 - Detect, prevent, or address fraud or security issues.
